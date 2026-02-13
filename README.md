@@ -49,5 +49,4 @@ Developed by **José Henrique (Nean)** as a final challenge for the **LIAO - Lig
 ---
 *License: MIT*
 
----
-*License: MIT*
+
